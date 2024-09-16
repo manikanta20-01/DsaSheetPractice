@@ -13,20 +13,36 @@ class Solution {
     int majorityElement(vector<int>& arr) {
 
         // your code here
-        if(arr.size() == 1) return arr[0];
-        for(int i = 0;i < arr.size();i++)
-        {
-            int count = 1;
-            int n = arr.size()/2;
-            for(int j = 0;j < arr.size();j++)
-            {
-                if(i == j)continue;
-                if(arr[i] == arr[j])count++;
-                if(count > n)return arr[i];
+        
+            int count = 0;
+        int ele = 0;
+
+        // First pass: Find a candidate for majority element
+        for (int i = 0; i < arr.size(); i++) {
+            if (count == 0) {
+                ele = arr[i];
+                count = 1;
+            } else if (arr[i] == ele) {
+                count++;
+            } else {
+                count--;
             }
         }
-        return -1;
         
+        // Second pass: Verify the candidate
+        int count1 = 0;
+        for (int i = 0; i < arr.size(); i++) {
+            if (arr[i] == ele) {
+                count1++;
+            }
+        }
+
+        // Check if the candidate is indeed the majority element
+        if (count1 > arr.size() / 2) {
+            return ele;
+        }
+        
+        return -1;
     }
 };
 
