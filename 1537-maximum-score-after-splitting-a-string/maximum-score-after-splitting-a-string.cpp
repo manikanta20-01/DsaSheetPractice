@@ -1,22 +1,24 @@
 class Solution {
 public:
     int maxScore(string s) {
-       int ones = 0;
-        int zeros = 0;
-        int best = INT_MIN;
-
+        int ans = 0;
         for (int i = 0; i < s.size() - 1; i++) {
-            if (s[i] == '1') {
-                ones++;
-            } else {
-                zeros++;
+            int curr = 0;
+            for (int j = 0; j <= i; j++) {
+                if (s[j] == '0') {
+                    curr++;
+                }
             }
-            best = max(best, zeros - ones);
+            
+            for (int j = i + 1; j < s.size(); j++) {
+                if (s[j] == '1') {
+                    curr++;
+                }
+            }
+            
+            ans = max(ans, curr);
         }
         
-        if (s[s.size() - 1] == '1') {
-            ones++;
-        }
-        return best + ones;
+        return ans;
     }
 };
