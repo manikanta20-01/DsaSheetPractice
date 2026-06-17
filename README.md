@@ -74,10 +74,12 @@
 | [1021-remove-outermost-parentheses](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
