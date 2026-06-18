@@ -32,6 +32,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
