@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -22,6 +23,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
@@ -90,5 +92,10 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
