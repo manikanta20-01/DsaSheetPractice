@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
