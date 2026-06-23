@@ -66,6 +66,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
