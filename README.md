@@ -44,6 +44,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
