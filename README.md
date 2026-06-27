@@ -8,6 +8,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -18,6 +19,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
@@ -125,4 +127,8 @@
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
