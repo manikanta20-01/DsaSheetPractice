@@ -8,6 +8,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -99,6 +100,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3838-weighted-word-mapping/) | Easy |
