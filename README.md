@@ -74,6 +74,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -222,5 +223,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
