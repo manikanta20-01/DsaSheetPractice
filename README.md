@@ -12,6 +12,7 @@
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -74,6 +75,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -228,6 +230,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
