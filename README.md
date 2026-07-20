@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -148,6 +149,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1260-shift-2d-grid/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -206,6 +208,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
