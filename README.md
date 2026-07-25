@@ -86,6 +86,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -172,6 +173,7 @@
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
