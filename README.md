@@ -63,6 +63,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Segment Tree
@@ -87,6 +88,7 @@
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -157,6 +159,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
