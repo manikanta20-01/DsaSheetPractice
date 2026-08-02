@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1260-shift-2d-grid/) | Easy |
@@ -86,6 +87,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -290,5 +293,10 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
