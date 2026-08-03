@@ -11,6 +11,7 @@
 | [1288-remove-covered-intervals](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -91,6 +92,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -126,6 +128,7 @@
 | [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1406-stone-game-iii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -295,6 +298,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
