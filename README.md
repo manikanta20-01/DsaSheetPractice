@@ -22,6 +22,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -47,6 +48,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -257,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
