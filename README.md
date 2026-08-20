@@ -28,6 +28,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -223,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1260-shift-2d-grid/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3838-weighted-word-mapping/) | Easy |
