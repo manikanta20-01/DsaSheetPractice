@@ -68,6 +68,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -99,6 +100,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
@@ -270,6 +273,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -288,6 +292,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
