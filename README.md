@@ -26,6 +26,7 @@
 | [2029-stone-game-ix](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2615-sum-of-distances](https://github.com/manikanta20-01/DsaSheetPractice/tree/master/2615-sum-of-distances) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -258,6 +259,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -349,6 +351,7 @@
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
