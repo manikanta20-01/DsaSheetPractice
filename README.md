@@ -42,6 +42,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -68,6 +69,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3731-find-missing-elements/) | Easy |
@@ -192,6 +194,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -313,6 +316,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +333,7 @@
 | [1260-shift-2d-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manikanta20-01/DsaSheetPractice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
